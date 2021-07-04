@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.30.0](https://www.github.com/lindell/multi-gitter/compare/v0.29.2...v0.30.0) (2021-07-04)
+
+
+### Features
+
+* moved to built in completion command in cobra 1.2.x ([#163](https://www.github.com/lindell/multi-gitter/issues/163)) ([81a7187](https://www.github.com/lindell/multi-gitter/commit/81a7187fce1ab76e6d87bdeee02b268fdb21320b))
+
 ### [0.29.2](https://www.github.com/lindell/multi-gitter/compare/v0.29.1...v0.29.2) (2021-07-01)
 
 
